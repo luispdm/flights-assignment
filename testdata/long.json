@@ -1,0 +1,78 @@
+[
+	{
+		"start": "BCN",
+		"end":   "PSC"
+	},
+	{
+		"start": "JFK",
+		"end":   "AAL"
+	},
+	{
+		"start": "FCO",
+		"end":   "BCN"
+	},
+	{
+		"start": "GSO",
+		"end":   "IND"
+	},
+	{
+		"start": "SFO",
+		"end":   "ATL"
+	},
+	{
+		"start": "AAL",
+		"end":   "HEL"
+	},
+	{
+		"start": "PSC",
+		"end":   "BLQ"
+	},
+	{
+		"start": "IND",
+		"end":   "EWR"
+	},
+	{
+		"start": "BGY",
+		"end":   "RAR"
+	},
+	{
+		"start": "BJZ",
+		"end":   "AKL"
+	},
+	{
+		"start": "AUH",
+		"end":   "FCO"
+	},
+	{
+		"start": "HEL",
+		"end":   "CAK"
+	},
+	{
+		"start": "RAR",
+		"end":   "AUH"
+	},
+	{
+		"start": "CAK",
+		"end":   "BJZ"
+	},
+	{
+		"start": "ATL",
+		"end":   "GSO"
+	},
+	{
+		"start": "CHI",
+		"end":   "JFK"
+	},
+	{
+		"start": "BLQ",
+		"end":   "MAD"
+	},
+	{
+		"start": "EWR",
+		"end":   "CHI"
+	},
+	{
+		"start": "MAD",
+		"end":   "SFO"
+	}
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "start": "SFO",
+        "end": "ATL"
+    },
+    {
+        "start": "ATL",
+        "end": "GSO"
+    },
+    {
+        "start": "GSO",
+        "end": "IND"
+    },
+    {
+        "start": "IND",
+        "end": "SFO"
+    }
+]

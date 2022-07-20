@@ -1,0 +1,9 @@
+services:
+
+  flights_server:
+    container_name: flights_server
+    build:
+      context: ../
+      dockerfile: docker/server/Dockerfile
+    ports:
+      - 8080:8080

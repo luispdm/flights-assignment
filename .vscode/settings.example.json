@@ -1,0 +1,15 @@
+{
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--fast"
+    ],
+    "go.lintOnSave": "workspace",
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "gopls": {
+        "usePlaceholders": true,
+        "completeUnimported": true
+    },
+    "editor.minimap.enabled": false,
+    "explorer.compactFolders": false
+}
