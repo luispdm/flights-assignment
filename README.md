@@ -8,8 +8,7 @@ All the work has been done on a 2021 16" Apple Macbook Pro with the following sp
 - 32 GB of RAM
 - 1 TB SSD
 ### Software
-- Go 1.18.3
-- [chi](https://github.com/go-chi/chi/) 5.0.7
+- Go 1.18.3 (with [chi](https://github.com/go-chi/chi/) 5.0.7)
 - macOS Monterey 12.4
 
 ## Considerations
