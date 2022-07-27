@@ -1,12 +1,12 @@
 package main
 
 import (
-	"log"
-	"net/http"
 	"flights-assignment/cmd/http/handler"
 	"flights-assignment/internal/decoder"
 	"flights-assignment/internal/marshaler"
 	"flights-assignment/internal/reswriter"
+	"log"
+	"net/http"
 
 	"github.com/go-chi/chi/v5"
 )
